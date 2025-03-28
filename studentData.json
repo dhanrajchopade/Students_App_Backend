@@ -1,0 +1,158 @@
+[
+    {
+"name":"Somnath Sharma",
+"gender":"Male",
+"profilepicUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"previousYearMarks":"87",
+"details":"Somnath Sharma is a very scholar student who never waste his time for unnecessary thing, he has a very well balanced daily schedule where he prioritiz his overall well-being and studying.",
+"dressCode":"Shirt and Trouser",
+"skills":["Public Speaking", "Photography"],
+"feesPending":"3000",
+"location":"Gurgaon",
+"parentsDetails":[
+    {
+"name":"Adarsh Sharma",
+"relationwithStudent":"Father",
+"designation":"Teacher",
+"imgUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "name":"Komal Sharma",
+        "relationwithStudent":"Mother",
+        "designation":"Beautician",
+        "imgUrl":"https://images.pexels.com/photos/6706847/pexels-photo-6706847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    }
+]
+    },
+    {
+        "name":"Harshita Srivastav",
+        "gender":"Female",
+        "location":"Faridabad",
+        "profilepicUrl":"https://images.pexels.com/photos/6706847/pexels-photo-6706847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "previousYearMarks":"77",
+        "details":"Harshita Srivastav is a very scholar student who never waste her time for unnecessary gossips,unlike other girls in class she is well focused on her studies and she is also a very good athelete specializing in long jump event.",   
+"dressCode":"Shirt and Pleated Skirt",        
+"skills":["Debate", "Sports"],
+        "feesPending":"2000",
+        "parentsDetails":[
+            {
+"name":"Darshan Srivastav",
+"relationwithStudent":"Father",
+"designation":"Businessman",
+"imgUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            },
+            {
+                "name":"Mansi Srivastav",
+                "relationwithStudent":"Mother",
+                "designation":"Housewife",
+                "imgUrl":"https://images.pexels.com/photos/6706847/pexels-photo-6706847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                            }
+        ]
+            },
+
+    {
+        "name":"Shrikant Verma",
+        "gender":"Male",
+      "profilepicUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+        "previousYearMarks":"67",
+        "details":"Shrikant is a chess champion, who won inter-school chess championship last year and is a very talented person when it comes about chess",
+      "dressCode":"Shirt and Trouser",
+"location":"Panipat",
+        "skills":["chess", "guitar"],
+        "feesPending":"6000",
+        "parentsDetails":[
+            {
+"name":"Abhay Verma",
+"relationwithStudent":"Father",
+"designation":"Barber",
+"imgUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            },
+            {
+                "name":"Sakshi Verma",
+                "relationwithStudent":"Mother",
+                "designation":"Housewife",
+                "imgUrl":"https://images.pexels.com/photos/6706847/pexels-photo-6706847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                            }
+        ]
+            },
+    
+            {
+                "name":"Nidhi Mehta",
+                "gender":"Female",
+             "profilepicUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"location":"Sonipat",
+                "previousYearMarks":"57",
+                "details":"Nidhi is a har working student who always strives hard to give her best, she have been struggling to score big but she always tries hard and also very confident.",
+           "dressCode":"Shirt and Pleated Skirt",   
+                "skills":["Singing","Paino"],
+                "feesPending":"1000",
+                "parentsDetails":[
+                    {
+        "name":"Akash Mehta",
+        "relationwithStudent":"Father",
+        "designation":"Dentist",
+        "imgUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    },
+                    {
+                        "name":"Shweta Methta",
+                        "relationwithStudent":"Mother",
+                        "designation":"Shop Owner",
+                        "imgUrl":"https://images.pexels.com/photos/6706847/pexels-photo-6706847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                                    }
+                ]
+                    },
+                  
+                            {
+                                "name":"Mehek Tiwari",
+                                "gender":"Female",
+                                "profilepicUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"location":"Meerut",
+                                "previousYearMarks":"78",
+                                "details":"Mehek is a Singer, he have won numerous awards in singing competition across her city, on weekends she does a serious rehearsals for her voice modulation and improvement in her voice, balancing studies parallely.",
+                                "dressCode":"Shirt and Pleated Skirt",  
+                                "skills":["Singing", "Guitar", "Mimicry"],
+                                "feesPending":"2000",
+                                "parentsDetails":[
+                                    {
+                        "name":"Mohit Tiwari",
+                        "relationwithStudent":"Father",
+                        "designation":"Broker",
+                        "imgUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                                    },
+                                    {
+                                        "name":"Mamta Tiwari",
+                                        "relationwithStudent":"Mother",
+                                        "designation":"Housewife",
+                                        "imgUrl":"https://images.pexels.com/photos/6706847/pexels-photo-6706847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                                                    }
+                                ]
+                                    },
+                                    {
+                                        "name":"Shubham Varpe",
+                                        "gender":"Male",
+                                        "profilepicUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+                                        "location":"Rewari",
+                                        "previousYearMarks":"93",
+                                        "details":"Shubham is a bright student, aiming to become a scientist , he specialize in science subjects like physics and Chemistry.",
+                                        "dressCode":"Shirt and Trouser",
+                                        "skills":["Elocution", "Debate", "Public Speaking"],
+                                        "feesPending":"7000",
+                                        "parentsDetails":[
+                                            {
+                                "name":"Shyam Varpe",
+                                "relationwithStudent":"Father",
+                                "designation":"Farmer",
+                                "imgUrl":"https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                                            },
+                                            {
+                                                "name":"Mohini Varpe",
+                                                "relationwithStudent":"Mother",
+                                                "designation":"Housewife",
+                                                "imgUrl":"https://images.pexels.com/photos/6706847/pexels-photo-6706847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                                                            }
+                                        ]
+                                            }
+                                                                                                                    
+]
