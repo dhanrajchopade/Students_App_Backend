@@ -14,7 +14,7 @@ app.use(express.json())
 
 initializeDatabase()
 
-const jsonData = fs.readFileSync("studentData.json","utf-8")
+const jsonData = fs.readFileSync("./studentData.json","utf-8")
 const StudentData = JSON.parse(jsonData)
 
 async function seedData() {
