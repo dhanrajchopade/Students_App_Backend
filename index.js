@@ -4,7 +4,7 @@ import { initializeDatabase } from "./db/db.connect.js"
 import Student from './models/student.models.js'
 import cors from "cors"
 import dotenv from "dotenv"
-import fs from "fs"
+// import fs from "fs"
 dotenv.config()
 
 const app = express()
@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000
 
 app.use(express.json())
 
-// initializeDatabase()
+initializeDatabase()
 
 // const jsonData = fs.readFileSync("studentData.json","utf-8")
 // const StudentData = JSON.parse(jsonData)
