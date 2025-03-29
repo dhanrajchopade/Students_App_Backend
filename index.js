@@ -77,7 +77,7 @@ app.get("/students", async(req,res)=>{
 
 // Get Student by Id
 
-app.get("/student/:id", async(req,res)=>{
+app.get("/students/:id", async(req,res)=>{
     try{
 const student = await Student.findById(req.params.id)
 if(!student){
